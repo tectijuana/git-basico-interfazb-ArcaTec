@@ -15,10 +15,10 @@
 */
 
 //@Autor    ArcaTec
-//@Fecha    26 mar 2022
+//@Fecha    27 mar 2022
 using namespace std;
 
-// funcion para comprobar losnumeros primos o compuestos
+// funcion para los numeros primos
 void  Primos() {
     int i = 0;
     int j = 23;
