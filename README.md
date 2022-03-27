@@ -21,7 +21,7 @@
 * Capitulo 7 problema 6
 * Capitulo 7 problema 5
 * Capitulo 7 problema 8
-*
+* apitulo 7 problema 12
 *
 *
 *
