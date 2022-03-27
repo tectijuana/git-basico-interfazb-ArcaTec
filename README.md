@@ -15,9 +15,9 @@
 
 ## :octocat: Ejercicios extra por entregar extemporaneo
 
-*Capitulo 10 problema 5
-*Capitulo 10 problema 1
-*Capitulo 7 problema 4
+* Capitulo 10 problema 5
+* Capitulo 10 problema 1
+* Capitulo 7 problema 4
 *
 *
 *
@@ -39,7 +39,7 @@
 *
 *
 *
-*
+* .
 
 ## :octocat: Understanding the GitHub flow 
 
