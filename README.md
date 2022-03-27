@@ -22,7 +22,7 @@
 * Capitulo 7 problema 5
 * Capitulo 7 problema 8
 * apitulo 7 problema 12
-**Capitulo 7 problema 13
+* Capitulo 7 problema 13
 *
 *
 *
