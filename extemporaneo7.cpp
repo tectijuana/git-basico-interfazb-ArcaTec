@@ -30,8 +30,7 @@ void  Primos() {
 
 
          formula = (3 * (pow(i, 2)) - 3 * i + 23);
-        cout << formula << "-";
-        cout << endl;
+        cout << formula << endl;
     }
     
 
