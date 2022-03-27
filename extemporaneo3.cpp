@@ -10,7 +10,9 @@
 
 //@Autor    ArcaTec
 //@Fecha    26 mar 2022
+
 using namespace std;
+
 // funcion para comprobar losnumeros primos
 int  Primo(int x) {
     bool primo =true;
