@@ -12,7 +12,7 @@
 *tabla de numeros primos. Variar a N de 0 a 22.
 *
 *
-*/
+**/
 
 //@Autor    ArcaTec
 //@Fecha    27 mar 2022
