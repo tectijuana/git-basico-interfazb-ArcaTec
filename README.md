@@ -18,9 +18,9 @@
 * Capitulo 10 problema 5
 * Capitulo 10 problema 1
 * Capitulo 7 problema 4
-*
-*
-*
+* Capitulo 7 problema 6
+* Capitulo 7 problema 5
+* Capitulo 7 problema 8
 *
 *
 *
