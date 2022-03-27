@@ -11,7 +11,7 @@
 //@Fecha    26 mar 2022
 using namespace std;
 
-void int dibujar_cuadrado() {
+void dibujar_cuadrado() {
     short lado;
     cout << "ingrese el lado del cuadrado; ";cin >> lado;
     for (short i = 0; i < lado; i++) {//filas
@@ -28,6 +28,6 @@ void int dibujar_cuadrado() {
     }
 }
 int main() {
-    dibujar_cuadrado;
+    dibujar_cuadrado();
     return 0;
 }
