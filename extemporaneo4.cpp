@@ -1,12 +1,12 @@
 #include <iostream>
 
 /**
-*Capitulo 7 problema 6
+* Capitulo 7 problema 6
 *
-*Calcular e imrpimir todos los numeros primos
-*consecutivos(tales como 11 y 13, 21 y 23) menores que 1000
+* Calcular e imrpimir todos los numeros primos
+* consecutivos(tales como 11 y 13, 21 y 23) menores que 1000
 *
-**/
+* */
 
 //@Autor    ArcaTec
 //@Fecha    26 mar 2022
