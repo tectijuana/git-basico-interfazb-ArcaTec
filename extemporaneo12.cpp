@@ -17,7 +17,7 @@
 * numeros que lo proceden inmediatamente. 
 * Los primeros pocos numeros de esa secuencia son: 
 * 1,1,2,3,5,8,13,21,34,55,89,144,.. 
-* Encontrar los primeros treintanumeros en esta secuencia.
+* Encontrar los primeros treinta numeros en esta secuencia.
 *
 * */
 
