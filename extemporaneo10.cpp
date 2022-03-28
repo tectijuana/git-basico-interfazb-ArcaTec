@@ -6,12 +6,12 @@
 
 
 /**
-*Capitulo 7 problema 16
+* Capitulo 7 problema 16
 *
-*Generar numero primos con el polinomio 
-*X=X^2+N+41 cuando x varia de 0 a 40
+* Generar numero primos con el polinomio 
+* X=X^2+N+41 cuando x varia de 0 a 40
 *
-**/
+* */
 
 //@Autor    ArcaTec
 //@Fecha    27 mar 2022
