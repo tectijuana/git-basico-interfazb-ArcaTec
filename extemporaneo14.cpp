@@ -20,6 +20,7 @@
 
 //@Autor    ArcaTec
 //@Fecha    27 mar 2022
+
 using namespace std;
 
 void  Vel() {// funcion de la velocidad
