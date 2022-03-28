@@ -21,7 +21,7 @@
 * Capitulo 7 problema 6
 * Capitulo 7 problema 5
 * Capitulo 7 problema 8
-* apitulo 7 problema 12
+* Capitulo 7 problema 12
 * Capitulo 7 problema 13
 * Capitulo 7 problema 14
 * Capitulo 7 problema 16
@@ -30,9 +30,9 @@
 * Capitulo 7 problema 19
 * Capitulo 8 problema 23
 * Capitulo 8 problema 2
-*
-*
-*
+* Capitulo 8 problema 3
+* Capitulo 7 problema 32
+* Capitulo 7 problema 26
 *
 *
 *
