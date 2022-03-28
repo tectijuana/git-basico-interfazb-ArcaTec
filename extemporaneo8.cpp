@@ -6,13 +6,12 @@
 
 
 /**
-*Capitulo 7 problema 13
+* Capitulo 7 problema 13
 *
 * Imprimir una tabla de numeros primos. 
-Usar la formla P=N^2-N+41
+* Usar la formla P=N^2-N+41
 *
-*
-**/
+* */
 
 //@Autor    ArcaTec
 //@Fecha    27 mar 2022
