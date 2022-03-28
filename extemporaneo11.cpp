@@ -6,13 +6,13 @@
 
 
 /**
-*Capitulo 7 problema 20
+* Capitulo 7 problema 20
 *
-*Se ha conjeturado que existe una gran cantidad de numero primos 
-*de la formula  n^n+ 1. Por ejemplo , 1+1=2(un primo) y 2^2+1=5 (un primo). 
-*Determinar para cada valor n=1,2,..,7 si n^n+1 es o no primo
+* Se ha conjeturado que existe una gran cantidad de numero primos 
+* de la formula  n^n+ 1. Por ejemplo , 1+1=2(un primo) y 2^2+1=5 (un primo). 
+* Determinar para cada valor n=1,2,..,7 si n^n+1 es o no primo
 *
-**/
+* */
 
 //@Autor    ArcaTec
 //@Fecha    27 mar 2022
