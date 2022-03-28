@@ -33,9 +33,9 @@
 * Capitulo 8 problema 3
 * Capitulo 7 problema 32
 * Capitulo 7 problema 26
-*
-*
-*
+* Capitulo 7 problema 25
+* Capitulo 7 problema 2
+* Capitulo 7 problema 1
 *
 *
 *
