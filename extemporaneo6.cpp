@@ -1,12 +1,12 @@
 #include <iostream>
 
 /**
-*Capitulo 7 problema 8
+* Capitulo 7 problema 8
 *
-*Enlistar todos los numeros compuestos entre 5 y 100. Un numero 
-*compuesto es cualquoer entero diferente de 1 que no sea primo
+* Enlistar todos los numeros compuestos entre 5 y 100. Un numero 
+* compuesto es cualquoer entero diferente de 1 que no sea primo
 *
-**/
+* */
 
 //@Autor    ArcaTec
 //@Fecha    26 mar 2022
