@@ -25,11 +25,11 @@
 * Capitulo 7 problema 13
 * Capitulo 7 problema 14
 * Capitulo 7 problema 16
-*
-*
-*
-*
-*
+* Capitulo 7 problema 20
+* Capitulo 7 problema 23
+* Capitulo 7 problema 19
+* Capitulo 8 problema 23
+* Capitulo 8 problema 2
 *
 *
 *
