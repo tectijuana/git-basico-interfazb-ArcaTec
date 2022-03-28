@@ -1,12 +1,12 @@
 #include <iostream>
 
 /**
-*Capitulo 7 problema 4
+* Capitulo 7 problema 4
 *
-*Imprimir los numeros primos del 1000 al 1500.
-*El programa no debera probar los numeros pares
+* Imprimir los numeros primos del 1000 al 1500.
+* El programa no debera probar los numeros pares
 *
-**/
+* */
 
 //@Autor    ArcaTec
 //@Fecha    26 mar 2022
