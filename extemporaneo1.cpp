@@ -1,11 +1,11 @@
 #include <iostream>
 
 /**
-*Capitulo 10 problema 5
+* Capitulo 10 problema 5
 * 
-*Programar la computadora para que dibuje un cuadrao en la terminal
+* Programar la computadora para que dibuje un cuadrao en la terminal
 *
-**/
+* */
 
 //@Autor    ArcaTec
 //@Fecha    26 mar 2022
