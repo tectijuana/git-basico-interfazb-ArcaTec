@@ -6,15 +6,15 @@
 
 
 /**
-*Capitulo 7 problema 19
+* Capitulo 7 problema 19
 *
-*Fermat, probablemente el mas grande matematico 
-*frances del siglo XVII, propuso que todos los 
-*numeros de la forma 2^(2n)+1, donde n=0,1,2,..., 
-*son primos. Demostrar que esto es cierto para
-*n=1,2,3,4, pero no para n=5.
+* Fermat, probablemente el mas grande matematico 
+* frances del siglo XVII, propuso que todos los 
+* numeros de la forma 2^(2n)+1, donde n=0,1,2,..., 
+* son primos. Demostrar que esto es cierto para
+* n=1,2,3,4, pero no para n=5.
 *
-**/
+* */
 
 //@Autor    ArcaTec
 //@Fecha    27 mar 2022
