@@ -9,7 +9,7 @@
 * Capitulo 8 problema 2
 *
 * Encontrar la distancia que recorre la luz
-en X años
+* en X años
 *
 * */
 
@@ -29,4 +29,3 @@ int main()
     cin >>x  ;
     cout <<"\n " << Luz(x) <<" Km\n";
 }
-
