@@ -6,26 +6,25 @@
 
 
 /**
-*Capitulo 7 problema 12
+* Capitulo 7 problema 12
 *
 * Usar la formula 3N^2 -3N +23 paara construir una 
-*tabla de numeros primos. Variar a N de 0 a 22.
+* tabla de numeros primos. Variar a N de 0 a 22.
 *
-*
-**/
+* */
 
 //@Autor    ArcaTec
 //@Fecha    27 mar 2022
 using namespace std;
 
-// funcion para los numeros primos
-void  Primos() {
+s
+void  Primos() { // funcion para los numeros primo
     int i = 0;
     int j = 23;
     double formula;
-    // ciclo de comp
+   
     
-    cout << "Numeros primos formula 3N^2-3N+23  " << endl; 
+    cout << "Numeros primos formula 3N^2-3N+23  " << endl;  // ciclo de comp
     for (; i <j; i++) {//ciclo de numeros
 
 
