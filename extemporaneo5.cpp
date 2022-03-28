@@ -1,12 +1,12 @@
 #include <iostream>
 
 /**
-*Capitulo 7 problema 5
+* Capitulo 7 problema 5
 *
-*El año 1973 lo recordaran muchos aficionados a la Matematica, pues se trata 
-+de un numero primo.Generar todos los numeros primos en el periodo 1972-2000
+* El año 1973 lo recordaran muchos aficionados a la Matematica, pues se trata 
++ de un numero primo.Generar todos los numeros primos en el periodo 1972-2000
 *
-**/
+* */
 
 //@Autor    ArcaTec
 //@Fecha    26 mar 2022
