@@ -6,27 +6,27 @@
 
 
 /**
-*Capitulo 7 problema 14
+* Capitulo 7 problema 14
 *
 * La formula Y(N)=N^2-79N+1601 puede usarse para generar prumos dentro de un rango limitado.
-*Determinar cada valor de N= 1,2,3,...,100 si Y(N) es un numero primo o no lo es.
+* Determinar cada valor de N= 1,2,3,...,100 si Y(N) es un numero primo o no lo es.
 *
-**/
+* */
 
 //@Autor    ArcaTec
 //@Fecha    27 mar 2022
 using namespace std;
 
-// funcion para los numeros primos
-int  Primo(int x)
+
+int  Primo(int x)// funcion para los numeros primos
 {
     bool primo = true;
     // ciclo de comprobacion
     for (int i = 2; i < x; i++)
     {
-        // funcion que comprueba su divicion por modulos para entender si es primo
-        if (x % i == 0) {
-            primo = false;// 
+        
+        if (x % i == 0) {// funcion que comprueba su divicion por modulos para entender si es primo
+            primo = false;
 
         }
 
